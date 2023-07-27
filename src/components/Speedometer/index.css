@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.main-container {
+  background-color: #07080c;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.heading {
+  color: #ffffff;
+  font-family: Roboto;
+  font-weight: bold;
+}
+.button1 {
+  color: #ffffff;
+  background-color: blue;
+  padding: 15px;
+  border-radius: 5px;
+}
+.button2 {
+  color: #ffffff;
+  background-color: transparent;
+  border: 2px solid #cbd5e1;
+  padding: 15px;
+  border-radius: 5px;
+}
